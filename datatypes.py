@@ -1,0 +1,6 @@
+x=int(1)
+y=str("6")
+z=float(3.7)
+print(x)
+print(y)
+print(z)
